@@ -1,2 +1,2 @@
-# Projects
-Various projects under coursera data science course
+# Training
+Use this directory for various tecniques used in Data Science
